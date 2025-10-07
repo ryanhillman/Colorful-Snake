@@ -57,4 +57,5 @@ Using object-oriented programming for modular, maintainable code.
 
 Enhancing visuals with dynamic colors and score display.
 
-🎨 Screenshot
+## 🎨 Screenshot
+![Colorful Snake Screenshot](screenshot.png)
