@@ -2,10 +2,10 @@
 
 This project is an enhanced version of the classic Snake game, built in Java with colorful visuals and infinite screen wrapping. The game demonstrates real-time rendering, collision detection, and object-oriented design principles using Swing/AWT.
 
-# 📷 Screenshot
+## 📷 Screenshot
 ![Colorful Snake Screenshot](screenshot.png)
 
-# 🎮 Features
+## 🎮 Features
 
 Dynamic Colors: Snake body segments randomly change colors as it moves.
 
@@ -21,7 +21,7 @@ Score Tracking: Score updates as food is eaten and displays on both the play scr
 
 Organized Codebase: Clear class structure for rendering, input, and game logic.
 
-# ⚙️ Technologies Used
+## ⚙️ Technologies Used
 
 Java (JDK 21+)
 
@@ -31,7 +31,7 @@ javax.swing.Timer for real-time game loop updates
 
 Keyboard event listeners for input
 
-# 🚀 Running the Game
+## 🚀 Running the Game
 
 Clone the repository:
 
@@ -48,7 +48,7 @@ Run the game:
 
 java SnakeGame
 
-# 📚 Learning Outcomes
+## 📚 Learning Outcomes
 
 Through building Colorful-Snake, I practiced:
 
