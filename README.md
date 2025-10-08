@@ -2,7 +2,7 @@
 
 This project is an enhanced version of the classic Snake game, built in Java with colorful visuals and infinite screen wrapping. The game demonstrates real-time rendering, collision detection, and object-oriented design principles using Swing/AWT.
 
-## 📷 Screenshot
+📷 Screenshot
 ![Colorful Snake Screenshot](screenshot.png)
 
 🎮 Features
